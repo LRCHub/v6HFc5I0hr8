@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Ghost",
+  "base_artist": "Justin Bieber",
+  "createdAt": "2025-12-11T18:14:13.223410Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ghost",
+      "artist": "Au/Ra feat. Alan Walker & Death Stranding: Timefall",
+      "has_synced": true,
+      "path": "select/01_Ghost_Au_Ra_feat._Alan_Walker_&_Death_Stranding__Timefall.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ghost",
+      "artist": "Au/Ra;Alan Walker",
+      "has_synced": true,
+      "path": "select/02_Ghost_Au_Ra;Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ghost Story",
+      "artist": "Carrie Underwood",
+      "has_synced": true,
+      "path": "select/03_Ghost_Story_Carrie_Underwood.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "(Ghost) Riders In the Sky (Live)",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/04_(Ghost)_Riders_In_the_Sky_(Live)_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "(Ghost) Riders In the Sky (Album Version)",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/05_(Ghost)_Riders_In_the_Sky_(Album_Version)_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "(Ghost) Riders in the Sky",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/06_(Ghost)_Riders_in_the_Sky_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ghost In This House",
+      "artist": "Shenandoah",
+      "has_synced": true,
+      "path": "select/07_Ghost_In_This_House_Shenandoah.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Give Up The Ghost",
+      "artist": "Lauren Jenkins",
+      "has_synced": true,
+      "path": "select/08_Give_Up_The_Ghost_Lauren_Jenkins.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Ghost Woman and the Hunter",
+      "artist": "Lacuna Coil",
+      "has_synced": false,
+      "path": "select/09_The_Ghost_Woman_and_the_Hunter_Lacuna_Coil.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Ghost Woman and the Hunter XX",
+      "artist": "Lacuna Coil",
+      "has_synced": true,
+      "path": "select/10_The_Ghost_Woman_and_the_Hunter_XX_Lacuna_Coil.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Heat Seeking Ghost of Sex",
+      "artist": "Dance Gavin Dance",
+      "has_synced": false,
+      "path": "select/11_Heat_Seeking_Ghost_of_Sex_Dance_Gavin_Dance.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Holy Ghost Spirit",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/12_Holy_Ghost_Spirit_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Holy Ghost Spirit (Instrumental)",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/13_Holy_Ghost_Spirit_(Instrumental)_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Oh, Hello Ghost - Acoustic",
+      "artist": "Rolo Tomassi",
+      "has_synced": false,
+      "path": "select/14_Oh,_Hello_Ghost_-_Acoustic_Rolo_Tomassi.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Oh Hello Ghost",
+      "artist": "Rolo Tomassi",
+      "has_synced": true,
+      "path": "select/15_Oh_Hello_Ghost_Rolo_Tomassi.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Golden Ghost",
+      "artist": "Rolo Tomassi",
+      "has_synced": false,
+      "path": "select/16_The_Golden_Ghost_Rolo_Tomassi.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ghost",
+      "artist": "Justin Bieber",
+      "has_synced": false,
+      "path": "select/pl_01_Ghost_Justin_Bieber.txt"
+    }
+  ]
+}
